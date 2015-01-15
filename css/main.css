@@ -42,7 +42,7 @@ color: #fff;
 .center {
   width: 28px;
   position:absolute; 
-  bottom: calc(50% - 7px);
+  bottom: calc(50% - 14px);
   left: calc(50% - 14px);
 
 }
